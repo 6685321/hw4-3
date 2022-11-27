@@ -1,0 +1,241 @@
+html {
+    background-color: #F5F5F5;
+    box-sizing: border-box;
+  }
+
+  *{padding:0;margin:0}
+  
+  .body {
+    margin: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .bg {
+    width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .top{
+    height: 168px;
+    background-color: #FFFFFF;
+  }
+  
+  .green{
+    height: 24px;
+    background-color: #B9BEAB;
+  }
+
+  .titleword{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 28px;
+    padding-left: 93px;
+  }
+
+  .title{
+    display: flex;
+    padding-bottom: 17px;
+  }
+
+  .right{
+    display: flex;
+    align-items: center;
+    padding-right: 93px;
+  }
+
+  .help{
+    margin-left: 29px;
+  }
+
+  .smallgreen{
+    height: 7px;
+    background-color: #B9BEAB;
+  }
+
+  .search-bar{
+    border: none;
+  }
+
+  .nav{
+    margin-top: 18px;
+  }
+
+  .nav-list {
+    display: flex;
+    padding-left: 93px;
+  }
+  
+  .nav-list-item {
+    list-style: none;
+    padding-right: 60px;
+  }
+  
+  .nav-list-item-link {
+    display: block;
+    text-decoration: none;
+    color: #000000;
+    font-size: 14px;
+    text-align: left;
+    font-family: Arial;
+  }
+
+  .all{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .besidesone{
+    width: 856px;
+  }
+
+  .firstword{
+    display: flex;
+  }
+
+  .two{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 47px;
+    padding-bottom: 82px;
+  }
+
+  .shopword{
+    display: flex;
+    align-items: center;
+    padding-right: 72px;
+    font-size: 20px;
+  }
+
+  .shop{
+    display: flex;
+  }
+
+  .three{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    align-items: center;
+  }
+
+  .kindword{
+    display: flex;
+    font-size: 20px;
+    padding-bottom: 52px;
+  }
+
+  .partkind{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-left: 98px;
+  }
+
+  .kind{
+    display: flex;
+    padding-bottom: 17px;
+  }
+
+  .classification{
+    display: flex;
+    justify-content: center;
+  }
+
+  .four{
+    display: flex;
+    margin-bottom: 80px;
+    width: auto;
+    height: 405px;
+    background-image: 
+    url("../img/Group 13.png");
+  }
+
+  .order{
+    padding-left: 69px;
+    padding-top: 337px;
+  }
+
+  .five{
+    display: flex;
+  }
+
+  .introduce{
+    /* display: flex;
+    flex-direction: column; */
+    padding-left: 65px;
+  }
+
+  .introducetitle{
+    font-size: 26px;
+    padding-top: 65px;
+    padding-bottom: 54px;
+  }
+
+  .introducecontent{
+    font-size: 14px;
+  }
+
+  .introducecontentclick{
+    padding-top: 54px;
+  }
+
+  .six{
+    display: block;
+    margin-top: 94px;
+    margin-bottom: 33px;
+  }
+
+  .sixtitle{
+    font-size: 16px;
+  }
+
+  .nameprice{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 33px;
+  }
+
+  .commodity{
+    padding-bottom: 12px;
+  }
+
+  .seven{
+    display: flex;
+    padding-bottom: 69px;
+  }
+
+  .lesson{
+    padding-left: 54px;
+  }
+
+  .lessontitle{
+    font-size: 26px;
+    padding-top: 87px;
+    padding-bottom: 54px;
+  }
+
+  .lessoncontent{
+    font-size: 16px;
+    padding-bottom: 23px;
+  }
+
+  .narrative{
+    display: flex;
+    padding-top: 46px;
+    justify-content: space-between;
+    
+  }
+
+  .footlink{
+    padding-right: 92px;
+  }
+
+  .link{
+    padding-left: 9px;
+  }
+
+  .bottomrectangle{
+    height: 101px;
+    padding: 0%;
+    background-color: #B9BEAB;
+  }
